@@ -20,8 +20,8 @@ End of the program.
 ## PROGRAM:
 ```
 Program for copying the contents from one file to another file
-Developed by: Abbu Rehan
-Register Number: 23010259
+Developed by: Aaron Rajesh R
+Register Number: 23008897
 
 with open("text1.txt",'r') as fp:
     msg1=fp.read()
